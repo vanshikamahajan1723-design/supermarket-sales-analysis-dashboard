@@ -1,17 +1,17 @@
-# 🛒 Supermarket Sales Analysis & KPI Dashboard
+#  Supermarket Sales Analysis & KPI Dashboard
 
 An end-to-end **Data Analytics project** that analyzes supermarket sales data to extract business insights and visualize key performance indicators (KPIs) using **Python, SQL, and Power BI**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on transforming raw supermarket transaction data into meaningful insights that help understand sales performance, customer behavior, and revenue trends.  
 The final output is an **interactive Power BI dashboard** designed for business decision-making.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall supermarket sales performance  
 - Identify monthly revenue trends and patterns  
@@ -22,7 +22,7 @@ The final output is an **interactive Power BI dashboard** designed for business 
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Python**  
   - Pandas  
@@ -40,7 +40,7 @@ The final output is an **interactive Power BI dashboard** designed for business 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 supermarket-sales-analysis-dashboard/
