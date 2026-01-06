@@ -39,7 +39,8 @@ The final outcome is an **interactive Power BI dashboard** designed for data-dri
   - Interactive dashboards and visualizations  
 
 ---
-
+## Dashboard preview
+![Dashboard Screenshot](dashboard_overview.png)
 ##  Project Structure
 
 ```text
@@ -66,5 +67,3 @@ Supermarket-Sales-Analysis-dashboard/
 ├── Supermarket Sales Screenshot.png
 ├── README.md
 
-##  Dashboard Preview
-![Dashboard Screenshot](dashboard_overview.png)
