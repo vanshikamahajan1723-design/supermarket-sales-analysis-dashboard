@@ -1,49 +1,49 @@
-#  Supermarket Sales Analysis & KPI Dashboard
+# 🛒 Supermarket Sales Analysis & KPI Dashboard
 
-An end-to-end **Data Analytics project** that analyzes supermarket sales data to extract business insights and visualize key performance indicators (KPIs) using **Python, SQL, and Power BI**.
-
----
-
-## Project Overview
-
-This project focuses on transforming raw supermarket transaction data into meaningful insights that help understand sales performance, customer behavior, and revenue trends.  
-The final output is an **interactive Power BI dashboard** designed for business decision-making.
+An end-to-end **Data Analytics project** that analyzes supermarket sales data to generate meaningful business insights and visualize key performance indicators (KPIs) using **Python, SQL, and Power BI**.
 
 ---
 
-##  Objectives
+## 📌 Project Overview
+
+This project focuses on transforming raw supermarket transaction data into actionable insights that help understand sales performance, revenue trends, discount effectiveness, and product contribution.  
+The final outcome is an **interactive Power BI dashboard** designed for data-driven decision-making.
+
+---
+
+## 🎯 Project Objectives
 
 - Analyze overall supermarket sales performance  
 - Identify monthly revenue trends and patterns  
-- Evaluate the impact of discounts on revenue  
+- Evaluate the impact of discounts on sales  
 - Compare sales vs return transactions  
 - Identify top-performing products  
-- Create a KPI-driven interactive dashboard  
+- Build an interactive KPI-driven dashboard  
 
 ---
 
-##  Tools & Technologies
+## 🛠 Tools & Technologies Used
 
-- **Python**  
+- **Python**
   - Pandas  
   - NumPy  
   - Matplotlib  
   - Seaborn  
 
-- **SQL**  
+- **SQL**
   - Data storage  
   - Aggregation and querying  
 
-- **Power BI**  
+- **Power BI**
   - KPI creation  
   - Interactive dashboards and visualizations  
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
-supermarket-sales-analysis-dashboard/
+Supermarket-Sales-Analysis-dashboard/
 │
 ├── data/
 │   ├── annex1.csv
@@ -61,7 +61,7 @@ supermarket-sales-analysis-dashboard/
 │   └── top_products.csv
 │
 ├── dashboard/
-│   └── Supermarket Sales Analysis and KPI Dashboard.pbix
+│   └── Supermarket Sales Analysis & KPI Dashboard.pbix
 │
+├── Supermarket Sales Screenshot.png
 ├── README.md
-
