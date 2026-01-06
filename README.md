@@ -65,3 +65,9 @@ Supermarket-Sales-Analysis-dashboard/
 │
 ├── Supermarket Sales Screenshot.png
 ├── README.md
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard_overview.png" width="850">
+</p>
