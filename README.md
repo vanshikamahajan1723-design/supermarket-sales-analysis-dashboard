@@ -67,7 +67,4 @@ Supermarket-Sales-Analysis-dashboard/
 ├── README.md
 
 ##  Dashboard Preview
-
-<p align="center">
-  <img src="dashboard_overview.png" width="850">
-</p>
+![Dashboard Screenshot](dashboard_overview.png)
